@@ -1,0 +1,13 @@
+{
+  "name": "coding-guide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vitepress",
+    "docs:build": "vitepress build"
+  },
+  "devDependencies": {
+    "vitepress": "^0.16.0"
+  }
+}
