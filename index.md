@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: Panduan koding
+heroText: Panduan Koding
 tagline: Koding jadi cepat, hemat, dan mudah dirawat
 actionText: Ayo Mulai!
 actionLink: /guide/
