@@ -9,5 +9,8 @@
   },
   "devDependencies": {
     "vitepress": "^0.16.0"
+  },
+  "dependencies": {
+    "vuepress-theme-hope": "^1.20.2"
   }
 }
